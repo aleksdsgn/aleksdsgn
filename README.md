@@ -1,4 +1,5 @@
-### Hi there 👋
+# Привет всем, меня зовут Алексей 👋
+## Я начинающий фронтенд-разработчик
 
 <!--
 **aleksdsgn/aleksdsgn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
