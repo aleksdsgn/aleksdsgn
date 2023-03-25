@@ -19,7 +19,7 @@
   Привет всем, меня зовут Алексей
 </h1>
 
-## Я начинающий фронтенд-разработчик
+## :man_technologist: Я начинающий фронтенд-разработчик
 
 Меняю специальность на ту к которой меня всегда тянуло. Уже более года я совмещаю 1,5 работы дизайнером (full-time + part-time), семью и обучение. Очень «драйвит» веб-разработка. Понимаю, что чем больше узнаю, тем меньше я знаю. Хочу нырнуть во фронтенд на реальных задачах и впитывать знания которые можно применить на практике и расширить зону компетенций. Сейчас закрепляю знания в Rolling Scopes School и обрастаю «веб-девелоперский жирком»
 
@@ -31,8 +31,19 @@
 ### Ближайшие планы по развитию:
 Изучение Английского и расширение базовых знаний во фронтенде.
 
-## Стек навыков:
-
+## :hammer_and_wrench: Стек навыков:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-plain-wordmark.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDB" **alt="MongoDB" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>
+  
+</div>
 <!--
 **aleksdsgn/aleksdsgn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
