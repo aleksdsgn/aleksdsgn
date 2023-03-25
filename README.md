@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGI4YTIyNGM3ZDgxNzlkYjY1NmIyZjVmNDM1ZjQ0YjJhMTIyZjE3MCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="300"/>
+</div>
+
 # Привет всем, меня зовут Алексей 👋
 ## Я начинающий фронтенд-разработчик
 
@@ -9,6 +13,8 @@
 
 ### Ближайшие планы по развитию:
 Изучение Английского и расширение базовых знаний во фронтенде.
+
+## Стек навыков:
 
 <!--
 **aleksdsgn/aleksdsgn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,4 +29,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+<div id="badges">
+  <a href="https://t.me/AleksDSGN">
+    <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="https://wa.me/79537650511
+    <img src="https://img.shields.io/badge/whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
+  </a>
+  <a href="mailto: aleksdsgn@ya.ru">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 -->
