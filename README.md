@@ -44,20 +44,22 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>
   
 </div>
-<!--
-**aleksdsgn/aleksdsgn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## :computer: Мои проекты:
+* #### :movie_camera: Movies-Explorer (frontend + backend)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+   [https://github.com/aleksdsgn/movies-explorer-full](https://github.com/aleksdsgn/movies-explorer-full)
 
+   <img src="https://user-images.githubusercontent.com/97102815/228849082-10a15264-03de-41bb-bf9b-4e2fabf02556.gif" width="300"/>
 
+* #### :camera_flash: Сервис Mesto (frontend + backend)
 
--->
+   [https://github.com/aleksdsgn/react-mesto-api-full](https://github.com/aleksdsgn/react-mesto-api-full)
+
+   <img src="https://user-images.githubusercontent.com/97102815/229083179-96529ecb-3d51-44a4-a0f0-85b78b3f6c98.gif" width="300"/>
+
+ * #### :train2: Учебная работа "Путешествия по России"
+
+   [https://github.com/aleksdsgn/russian-travel](https://github.com/aleksdsgn/russian-travel)
+
+   <img src="https://user-images.githubusercontent.com/97102815/229088420-eb68034d-7678-46b5-b638-66af15200dde.gif" width="300"/>
